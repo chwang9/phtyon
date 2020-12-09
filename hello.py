@@ -54,3 +54,29 @@
 #     print('当前是第%d次'%(i+1))
 #     print('i=%d'%i)
 #     i +=1
+# 求和1至100
+# n = 100
+# sum  = 0
+# counter = 1
+# while counter<=n:
+#     sum = sum + counter
+#     counter +=1
+# print(n,sum)
+
+
+# 7 break contine
+# i = 0
+# while i < 10:
+#     i = i + 1
+#     print('-'*30)
+#     if i == 5:
+#         break #结束整个循环
+#     print(i)
+
+# i = 0
+# while i < 10:
+#     i = i + 1
+#     print('-'*30)
+#     if i == 5:
+#         continue #结束本次循环
+#     print(i)
