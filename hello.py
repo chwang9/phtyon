@@ -49,8 +49,8 @@
 # for i in range(len(a)):
 #     print(i, a[i])
 
-i = 0
-while i < 5:
-    print('当前是第%d次'%(i+1))
-    print('i=%d'%i)
-    i +=1
+# i = 0
+# while i < 5:
+#     print('当前是第%d次'%(i+1))
+#     print('i=%d'%i)
+#     i +=1
